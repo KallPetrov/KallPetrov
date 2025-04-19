@@ -1,5 +1,4 @@
 Name: Kall Petrov<br>
-Country: Bulgaria<br>
 Job title - Software Engineer: Python, PHP, RouterOS Script, etc.<br>
 Certificates: HEXAGON=12 , LRQA=1, LEAN=2<br>
 Interests: Python Application, Development of IoT Platforms, Robotics, LLM Models, AI, and others<br>

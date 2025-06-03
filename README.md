@@ -8,7 +8,7 @@ Expertise in: Python, PHP, RouterOS Script, and more.
 - **HEXAGON**: 12
 - **LRQA**: 1
 - **LEAN**: 2
-- European **DigiComp 2.1** Level: 5, 6, 7, 8
+- European **DigiComp 2.1** - Level: 5, 6, 7, 8
 
 ## 🧠 Interests
 - Python Application Development  - IoT Platforms  - Robotics  - LLM (Large Language Model) Development  - Artificial Intelligence  

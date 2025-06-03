@@ -8,6 +8,7 @@ Expertise in: Python, PHP, RouterOS Script, and more.
 - **HEXAGON**: 12
 - **LRQA**: 1
 - **LEAN**: 2
+- **DigiCom**: 2.1
 
 ## 🧠 Interests
 - Python Application Development  - IoT Platforms  - Robotics  - LLM (Large Language Model) Development  - Artificial Intelligence  

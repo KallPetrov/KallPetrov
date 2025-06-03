@@ -10,11 +10,7 @@ Expertise in: Python, PHP, RouterOS Script, and more.
 - **LEAN**: 2
 
 ## 🧠 Interests
-- Python Application Development  
-- IoT Platforms  
-- Robotics  
-- LLM (Large Language Model) Development  
-- Artificial Intelligence  
+- Python Application Development  - IoT Platforms  - Robotics  - LLM (Large Language Model) Development  - Artificial Intelligence  
 - And others...
 
 ## 🌍 Spoken Languages

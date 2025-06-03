@@ -18,7 +18,7 @@ Expert in: Python, PHP, RouterOS Script, and more.
 - Bulgarian, Russian, English, Macedonian, Serbian  
 
 ## 🎧 Favorite Songs
-- *Every Part Of Me*,*Unforgettable*,*Say My Name* – Godsmack  
+- *Every Part Of Me*, *Unforgettable*, *Say My Name* – Godsmack  
 - *I Surrender* – Rainbow  
 - *Dune Mosse* – Zucchero & Miles Davis  
 - *Internacionales* – Qva Libre & Descemer Bueno  

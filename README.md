@@ -18,16 +18,10 @@ Expertise in: Python, PHP, RouterOS Script, and more.
 - And others...
 
 ## 🌍 Spoken Languages
-- Bulgarian  
-- Russian  
-- English  
-- Macedonian  
-- Serbian  
+- Bulgarian, Russian, English, Macedonian, Serbian  
 
 ## 🎧 Favorite Songs
-- *Every Part Of Me*  
-- *Unforgettable*  
-- *Say My Name* – Godsmack  
+- *Every Part Of Me*,*Unforgettable*,*Say My Name* – Godsmack  
 - *I Surrender* – Rainbow  
 - *Dune Mosse* – Zucchero & Miles Davis  
 - *Internacionales* – Qva Libre & Descemer Bueno  
@@ -48,21 +42,5 @@ Expertise in: Python, PHP, RouterOS Script, and more.
 
 ## 🏗️ Projects and Clients
 Worked on major projects at:
-- Mitsubishi  
-- Atlas Copco  
-- Bobcat  
-- Siemens  
-- PRYSM  
-- Honda  
-- Hako  
-- Emerson  
-- Sappsuma  
-- HART  
-- OKUMA  
-- TOYOTA  
-- Palo Alto  
-- UniCredit Group  
-- SAMSUNG  
-- Thermo King Corp.  
-- WYSE  
+- Mitsubishi  - Atlas Copco  - Bobcat  - Siemens  - PRYSM  - Honda  - Hako  - Emerson  - Sappsuma  - HART  - OKUMA  - TOYOTA  - Palo Alto  - UniCredit Group - SAMSUNG - Thermo King Corp. - WYSE  
 - *and many others...*

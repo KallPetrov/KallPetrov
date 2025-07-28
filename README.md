@@ -8,6 +8,7 @@ Expert in: Python, PHP, SQL, SQlite, RouterOS Script, and more.
 - **HEXAGON**: 12
 - **LRQA**: 1
 - **LEAN**: 2
+- **Great Learning** - Data Science, Blockchain Process
 - European **DigiComp 2.1** - Level: 5, 6, 7, 8
 
 ## 🧠 Interests

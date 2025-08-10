@@ -2,7 +2,7 @@
 
 ## 👨‍💻 Job Title
 **Software Engineer**  
-Expert in: Python, PHP, SQL, SQlite, RouterOS Script, and more.
+Expert in: Python, PHP, HTML, SQL, SQlite, RouterOS Script, and more.
 
 ## 🧾 Certificates
 - **HEXAGON**: 12

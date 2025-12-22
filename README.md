@@ -5,14 +5,14 @@
 Expert in: | Python | TypeScript | Node.js | React | Next.js | Supabase | Java | RouterOS Script | and more.
 
 ## 🧾 Certificates
-- **HEXAGON**: 12
+- **HEXAGON**: 35
 - **LRQA**: 1
 - **LEAN**: 2
 - **Great Learning** - Data Science, Blockchain Process
 - European **DigiComp 2.1** - Level: 5, 6, 7, 8
 
 ## 🧠 Interests
-- Python Application Development  - IoT Platforms  - Robotics  - LLM (Large Language Model) Development  - Artificial Intelligence  
+- Python Application Development  - AIoT/IoT/IIoT Platforms  - Robotics  - LLM (Large Language Model) Development  - Artificial Intelligence  
 - And others...
 
 ## 🌍 Spoken Languages

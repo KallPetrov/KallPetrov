@@ -25,7 +25,7 @@ Expert in: | Python | TypeScript | Node.js | React | Next.js | Supabase | Java |
 - *Internacionales* – Qva Libre & Descemer Bueno  
 
 ## 🏢 Founder Of
-**Hexagon-Lab**
+**DefComs**
 
 ## 💼 Experience
 **Over 20 years** in software development, automation, and systems integration.

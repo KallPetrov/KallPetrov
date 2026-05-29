@@ -5,6 +5,7 @@
 Expert in: | Python | TypeScript | Node.js | React | Next.js | Supabase | Java | RouterOS Script | and more.
 
 ## 🧾 Certificates
+- **UR Universal Robots**: 6
 - **HEXAGON**: 35
 - **LRQA**: 1
 - **LEAN**: 2

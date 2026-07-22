@@ -1,6 +1,6 @@
 # Kall Petrov
 
-## 👨‍💻 Job Title
+## 👨‍💻 Job TitleMikroTik
 **Software Engineer**  
 Expert in: | Python | TypeScript | Node.js | React | Next.js | Supabase | Java | RouterOS Script | and more.
 

@@ -13,7 +13,7 @@ Expert in: | Python | TypeScript | Node.js | React | Next.js | Supabase | Java |
 - European **DigiComp 2.1** - Level: 5, 6, 7, 8
 
 ## 🧠 Interests
-- Python Application Development  - AIoT/IoT/IIoT Platforms  - Robotics  - LLM (Large Language Model) Development  - Artificial Intelligence  
+- Python Application Development  - AIoT/IoT/IIoT Platforms  - Robotics  - LLM (Large Language Model) Development  - Artificial Intelligence - Cyber Security 
 - And others...
 
 ## 🌍 Spoken Languages

@@ -2,7 +2,7 @@
 
 ## 👨‍💻 Job TitleMikroTik
 **Software Engineer**  
-Expert in: | Python | TypeScript | Node.js | React | Next.js | Supabase | Java | RouterOS Script | and more.
+Expert in: | Python | TypeScript | Node.js | React | Next.js | Supabase | Java | RouterOS Script | Cyber Security | and more.
 
 ## 🧾 Certificates
 - **UR Universal Robots**: 6
@@ -11,6 +11,7 @@ Expert in: | Python | TypeScript | Node.js | React | Next.js | Supabase | Java |
 - **LEAN**: 2
 - **Great Learning** - Data Science, Blockchain Process
 - European **DigiComp 2.1** - Level: 5, 6, 7, 8
+- **OPSWAT** - Level: Data Transfer Security, Legacy System Security, Secure Storage, Web Traffic Protection
 
 ## 🧠 Interests
 - Python Application Development  - AIoT/IoT/IIoT Platforms  - Robotics  - LLM (Large Language Model) Development  - Artificial Intelligence - Cyber Security - MikroTik - SOC - NOC
